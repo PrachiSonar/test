@@ -1,5 +1,0 @@
-{{#user}}
-Name: Prachi
-Skills: HTML, CSS, JS, python
-Email: prachisonar1212@gmail.com
-{{/user}}
